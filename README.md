@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Hyper Island student.
+I am a Hyper Island frontend student.
 
 <!--
 **sanvog/sanvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
